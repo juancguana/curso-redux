@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "0.1.0",
-  "homepage": "https://juanguana.github.io/curso-redux",
+  "homepage": "https://juancguana.github.io/curso-redux",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
