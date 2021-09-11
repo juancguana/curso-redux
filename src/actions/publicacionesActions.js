@@ -71,7 +71,6 @@ export const abrirCerrar = (pub_key, com_key) => (dispatch, getState) => {
     type: ACTUALIZAR,
     payload: publicaciones_actualizadas,
   });
-  console.log(pub_key, com_key);
 };
 
 export const traerComentarios =

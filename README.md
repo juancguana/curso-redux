@@ -1,1 +1,1 @@
-# BlogPlatzi
+# Blog
