@@ -17,8 +17,6 @@ const {
 class Publicaciones extends Component {
   async componentDidMount() {
     const {
-      usuariosTraerTodos,
-      publicacionesTraerPorUsuario,
       match: {
         params: { key },
       },
@@ -98,7 +96,11 @@ class Publicaciones extends Component {
       >
         <h2>{publicacion.title}</h2>
         <h3>{publicacion.body}</h3>
-        {publicacion.abierto ? <Comentarios comentarios={publicacion.comentarios} /> : ''}
+        {publicacion.abierto ? (
+          <Comentarios comentarios={publicacion.comentarios} />
+        ) : (
+          ''
+        )}
       </div>
     ));
 
