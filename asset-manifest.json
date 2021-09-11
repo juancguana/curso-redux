@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curso-redux/static/css/main.7a6641ea.chunk.css",
+    "main.js": "/curso-redux/static/js/main.8056bae8.chunk.js",
+    "main.js.map": "/curso-redux/static/js/main.8056bae8.chunk.js.map",
+    "runtime~main.js": "/curso-redux/static/js/runtime~main.fee84827.js",
+    "runtime~main.js.map": "/curso-redux/static/js/runtime~main.fee84827.js.map",
+    "static/js/2.79b270f2.chunk.js": "/curso-redux/static/js/2.79b270f2.chunk.js",
+    "static/js/2.79b270f2.chunk.js.map": "/curso-redux/static/js/2.79b270f2.chunk.js.map",
+    "index.html": "/curso-redux/index.html",
+    "precache-manifest.223eb432643aec19531e2e41225efd01.js": "/curso-redux/precache-manifest.223eb432643aec19531e2e41225efd01.js",
+    "service-worker.js": "/curso-redux/service-worker.js",
+    "static/css/main.7a6641ea.chunk.css.map": "/curso-redux/static/css/main.7a6641ea.chunk.css.map"
+  }
+}
